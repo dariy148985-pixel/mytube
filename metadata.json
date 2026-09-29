@@ -1,0 +1,8 @@
+{
+  "name": " My Tube Epic",
+  "description": "Платформа видеохостинга с премьерами каналов А4, MrBeast, Кисельчик, Компот, Роберт До Нила, комментариями блогеров с ответами фанатов и сердечками автора, поддержкой загрузки видео до 2 ГБ, YouTube ссылок, Shorts и комментариями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
